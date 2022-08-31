@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: #000;
+    
+   
+}
+
+.bg-lights {
+    --bs-bg-opacity: 1;
+    background-color: rgb(171, 3, 3);
+}
+
+
+.nav-link {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: white;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 800;
+    line-height: 1;
+}
+
+
+.navbar-brand {
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    font-size: var(--bs-navbar-brand-font-size);
+    color: var(--bs-navbar-brand-color);
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+
+
+
+.text-main
+{
+    color: #fff;
+    text-align: center;
+}
+
+.Wanda-bg-info{
+    background-color: #828282;
+}
+.categories img{
+    width: 100px;
+}
+.wanda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #b90e0e 0%, #8a2525 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+
+element.style {
+    height: 300px;
+    BACKGROUND-COLOR: BEIGE;
+    BORDER: solid;
+    BORDER: 2PX;
+}
+
+.logoimg 
+{ 
+    width: 202px;
+    height: 26px;
+
+}
+
+.end
+{ 
+    background-color: rgb(104, 187, 207);
+    font-size: larger ;
+
+}
