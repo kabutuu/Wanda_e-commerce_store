@@ -1,4 +1,4 @@
-body {
+.body {
     margin: 0;
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
@@ -82,7 +82,7 @@ h6 {
 }
 
 
-element.style {
+.element.style {
     height: 300px;
     BACKGROUND-COLOR: BEIGE;
     BORDER: solid;
